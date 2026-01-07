@@ -2,11 +2,11 @@
 title: LineageOS
 
 # Short bio or description (displayed in the header)
-description: Kha Tran Android Development
+description: Kha Tran Android Development 2
 
 #repository: https://tranchikha.github.io/khatran.dev
-git:
-  repository_url: https://github.com/tranchikha/khatran.dev
+#git:
+#  repository_url: https://github.com/tranchikha/khatran.dev
 
 github: [metadata]
 #
@@ -31,13 +31,13 @@ disqus:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lineageos.org
+url: https://github.com/tranchikha
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/khatran.dev"
 
 permalink: /:title/
 
