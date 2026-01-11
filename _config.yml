@@ -16,13 +16,13 @@ github: [metadata]
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:
-  facebook:
-  reddit: lineageos
-  discord: gD6DMtf
-  github: lineageos
-  rss: true
+  facebook: khatran1106
+  reddit: 
+  discord: 
+  github: tranchikha
+  rss: 
   twitter:
-  mastodon: https://fosstodon.org/@LineageOS
+  mastodon: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
