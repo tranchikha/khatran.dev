@@ -25,7 +25,7 @@ scrolljs: true
       <div>
         <h2>Latest news</h2>
 
-        {% for post in site.categories.blog limit:5 %}
+        {% for post in site.categories.blog limit:3 %}
         <h3><a class="fg-primary-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <h6>{{ post.excerpt }}</h6>
         <p><i class="material-icons-outlined post-icons" alt="Creation date">calendar_today</i> {{ post.date | date: '%B %d, %Y' }}
